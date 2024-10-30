@@ -34,7 +34,7 @@ netlify init
 Ensure all packages are installed by running:
 
 ```sh
-npm install
+pnpm install
 ```
 
 Run
